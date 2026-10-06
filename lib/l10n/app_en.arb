@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "appTitle": "Máquina Zen",
+  "tapHint": "tap the circle",
+  "newQuote": "Another quote",
+  "save": "Save",
+  "unsave": "Remove from saved",
+  "share": "Share",
+  "copied": "Copied",
+  "saved": "Saved",
+  "savedEmpty": "Nothing saved yet.\nNothing missing, either.",
+  "switchLanguage": "Leer en español",
+  "aboutDrawHint": "draw your own circle",
+  "aboutCredit": "vibe coded by Ivan Robayo",
+  "aboutLink": "Know more on ivanro.com"
+}
